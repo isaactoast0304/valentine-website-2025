@@ -50,7 +50,7 @@ const CONFIG = {
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "나도 사랑해 규리야~! 🎉💝💖💝💓",
-        message: "나의 선물을 받아조~~",
+        message: "❤️",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
