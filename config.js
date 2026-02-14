@@ -33,9 +33,9 @@ const CONFIG = {
             nextBtn: "다음~ ❤️"                                         // Text for the next button
         },
         third: {
-            text: "Will you be my Valentine on February 14th, 2025? 🌹", // The big question!
-            yesBtn: "Yes!",                                             // Text for "Yes" button
-            noBtn: "No"                                                 // Text for "No" button
+            text: "오늘 나와 데이트 해줄래? 🌹", // The big question!
+            yesBtn: "웅!",                                             // Text for "Yes" button
+            noBtn: "싫어."                                                 // Text for "No" button
         }
     },
 
@@ -49,7 +49,7 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "나도 사랑해 규리야~! 🎉💝💖💝💓",
+        title: "사랑해~! 🎉💝💖💝💓",
         message: "❤️",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
